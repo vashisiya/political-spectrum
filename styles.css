@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bohemian'; /* Name for your font */
+    src: url('bohemian_soul/Bohemian Soul.otf') format('opentype');
+    /* Add additional source declarations for different font formats if necessary */
+}
+
+@font-face {
+    font-family: 'Ethereal'; /* Name for your font */
+    src: url('ethereal/Ethereal-Thin.otf') format('opentype');
+    /* Add additional source declarations for different font formats if necessary */
+}
+body {
+    font-family: 'Bohemian', sans-serif;
+}
